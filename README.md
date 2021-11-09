@@ -1,2 +1,2 @@
 # menunotice
-App to advice of scholar menus
+App to send notifications about scholar menus
